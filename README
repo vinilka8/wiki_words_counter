@@ -1,0 +1,10 @@
+bag_of_words.py
+1. Tokenize the wiki document into list of word that are counted and showed the most frequent appeared words.
+2. Main method that should be executed
+
+unit_test.py
+1. contains unit functional test all assertions should go there
+
+Execution procedures:
+1. Make sure you have nltk, sklearn, pandas libraries downloaded and installed
+2. Run the main command in bag_of_words.py, it should print out the output of the results.
